@@ -6,7 +6,7 @@ I am interested in industry 4.0 technologies and learning new skills to implemen
 
 Ontop of studying architecture standards and principles, I am currently learning blockchain, data science and machine learning with Python. 
 
-This repository includes work as part ofmy learning. Inlcuding part of my MSc Computer Science dissertation where I propose a conceptual architectural model and mock-up prototype design of a privacy awareness and control interface for the IoT.
+This repository includes work as part of my learning. Inlcuding part of my MSc Computer Science dissertation where I propose a conceptual architectural model and mock-up prototype design of a privacy awareness and control interface for the IoT.
 
 📫 Feel free to reach out to me: https://www.linkedin.com/in/bradleyclemson/
 
