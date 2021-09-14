@@ -1,14 +1,17 @@
 👋 Hi, I’m @bradclemson97
 
-A proffesional software developer and aspriring architect :technologist:. I am passionate about software development and hold a MSc in Computer science and BSc in Business and Management. 
+A proffesional software developer with experience in frontend and backend development :technologist:. I am passionate in software development and hold a MSc in Computer science where I specialised in subjects ranging from User Experience Design to Artificial Intelligence and Data Mining.
 
-I am interested in industry 4.0 technologies and learning new skills to implement information systems and reengineer business processes. 
+I am interested in industry 4.0 technologies and learning the tools and practices to be a well-rounded developer that can provide continous delivery of high quality solutions and shorten development life cycles.
 
-Ontop of studying architecture standards and principles, I am currently learning blockchain, data science and machine learning with Python. 
+This repository includes projects from my professional and academic work. This inlcudes:
+*IotAware 
+*BioCell
+*Algorithmic Toolbox
+*Business Website Example 
+*Business Website Example 2
 
-This repository includes work as part of my learning. Inlcuding part of my MSc Computer Science dissertation where I propose a conceptual architectural model and mock-up prototype design of a privacy awareness and control interface for the IoT.
-
-Feel free to reach me :mailbox: https://twitter.com/bradclemson
+Feel free to connect with me :mailbox: https://twitter.com/bradclemson
 
 <!---
 bradclemson97/bradclemson97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
