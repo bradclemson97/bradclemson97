@@ -5,11 +5,11 @@ A proffesional software developer with experience in frontend and backend develo
 I am interested in industry 4.0 technologies and learning the tools and practices to be a well-rounded developer that can provide continous delivery of high quality solutions and shorten development life cycles.
 
 This repository includes projects from my professional and academic work. This inlcudes:
-*IotAware 
-*BioCell
-*Algorithmic Toolbox
-*Business Website Example 
-*Business Website Example 2
+- IotAware 
+- BioCell
+- Algorithmic Toolbox
+- Business Website Example 
+- Business Website Example 2
 
 Feel free to connect with me :mailbox: https://twitter.com/bradclemson
 
