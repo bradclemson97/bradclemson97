@@ -5,9 +5,8 @@
 💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
 👨‍💻 &nbsp;I currently work as a software developer and have experience in both frontend and backend development.\
 🎓 &nbsp;I have a MSc in Computer Science and a BSc in Business and Management from Aston University.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic and Website design and development as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
+🌱 &nbsp;I'm on track for learning more about Machine Learning, Systems Design, and Cloud Architecture.\
+💬 &nbsp;Feel free to reach out!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
