@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp; I enjoy exploring new technologies and develop software solutions and quick hacks.\
 👨‍💻 &nbsp;I currently work as a software developer and have experience in both frontend and backend development.\
 🎓 &nbsp;I have a MSc in Computer Science and a BSc in Business and Management from Aston University.\
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Systems Design, and Cloud Architecture.\
