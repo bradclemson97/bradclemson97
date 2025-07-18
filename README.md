@@ -8,7 +8,9 @@
 🌱 &nbsp;I am on track for learning more about Machine Learning and AI.\
 💬 &nbsp;Feel free to reach out!
 
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 ### 🛠 &nbsp;Tech Stack
 
