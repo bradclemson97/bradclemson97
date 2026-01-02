@@ -42,7 +42,6 @@
 <p align="center"> 
   <a href="https://github.com/bradclemson97"> 
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bradclemson97&show_icons=true&theme=vue-dark&include_all_commits=false&count_private=true" /> 
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bradclemson97&layout=compact&theme=vue-dark&cache_seconds=1800" />
   </a> 
 </p>
 
