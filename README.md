@@ -8,8 +8,6 @@
 🌱 &nbsp;I research developments in **AI, Machine Learning, and Quantum Computing**.\
 💬 &nbsp;Feel free to reach out!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" />
-
 ---
 
 ### 🛠 &nbsp;Tech Stack
@@ -39,10 +37,11 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center"> 
-  <a href="https://github.com/bradclemson97"> 
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bradclemson97&show_icons=true&theme=vue-dark&include_all_commits=false&count_private=true" /> 
-  </a> 
+<p align="center">
+  <a href="https://github.com/bradclemson97">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bradclemson97&show_icons=true&theme=vue-dark&include_all_commits=false&count_private=true" />
+  </a>
+  <img height="180em" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 </p>
 
 ---
