@@ -2,10 +2,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I enjoy exploring new technologies, developing software solutions and quick hacks.\
+💡 &nbsp;I enjoy exploring new technologies, developing intelligent software solutions and enocouraging engineering excellence.\
 👨‍💻 &nbsp;I work as a Full Stack Developer.\
-🎓 &nbsp;I have a MSc in Computer Science and a BSc in Business and Management from Aston University.\
-🌱 &nbsp;I am on track for learning more about Machine Learning and AI.\
+🎓 &nbsp;I have a MSc in Computer Science and BSc in Business and Management from Aston University.\
+🌱 &nbsp;I research developments in AI, Machine Learning and Quantum Computing.\
 💬 &nbsp;Feel free to reach out!
 
 
@@ -32,7 +32,7 @@
 <p align="center">
 <a href="https://github.com/bradclemson97">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bradclemson97&show_icons=true&theme=vue-dark&include_all_commits=false&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bradclemson97&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bradclemson97&layout=compact&theme=vue-dark&cache_seconds=1800" />
 </a>
 </p>
 
