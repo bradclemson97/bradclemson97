@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I enjoy exploring new technologies, developing intelligent software solutions and enocouraging engineering excellence.\
+💡 &nbsp;I enjoy exploring new technologies, developing intelligent software solutions and encouraging engineering excellence.\
 👨‍💻 &nbsp;I work as a Full Stack Developer.\
 🎓 &nbsp;I have a MSc in Computer Science and BSc in Business and Management from Aston University.\
 🌱 &nbsp;I research developments in AI, Machine Learning and Quantum Computing.\
