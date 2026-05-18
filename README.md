@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I enjoy exploring new technologies, developing intelligent software solutions, and encouraging engineering excellence.\
-👨‍💻 &nbsp;I work as a **Full Stack Developer**.\
+👨‍💻 &nbsp;I work as a forward-deployed **Full Stack Developer** with extensive experience in government and defence.\
 🎓 &nbsp;I hold an **MSc in Computer Science** and a **BSc in Business and Management** from Aston University.\
 🌱 &nbsp;I research developments in **AI, Machine Learning, and Quantum Computing**.\
 💬 &nbsp;Feel free to reach out!
